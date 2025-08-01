@@ -14,7 +14,7 @@
 - 🏢 I'm a Software Developer and Technical Community Manager 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- 👨‍💻 Check out my portfolio at https://rachidelghazaoui.vercel.app/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://parasso33.github.io/portfolio/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
